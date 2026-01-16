@@ -60,7 +60,7 @@ export const astrologers: Astrologer[] = [
   },
   {
     id: "2",
-    name: "Acharya Meera Devi",
+    name: "AANYA SINGH",
     photo: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=300&h=300&fit=crop&crop=face",
     expertise: ["Tarot Reading", "Numerology"],
     experience: 12,
